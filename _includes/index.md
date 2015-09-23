@@ -3,20 +3,11 @@
 
 This website contains the code and data used to run the simulations underlying
 the paper results, as well as those to create the visualizations included,
-plus some additional ones not reported in the paper. 
-
-[Structure of the website]
-
-required to reproduce the figures in
-the paper, along with some light explanation of the main insights and
-techniques that came out of this project. [Data
-Preparation](data_prep.html) contains a description of the data used and STATA code
-to process it into the shape and form we need it for the visualization,
-including how to run the regressions for the Roback model on which we rely.
-[Visualizations](results.html) contains Python code to reproduce the figures
-presented in the paper. More importantly, the code is flexible and general
-enough that allows any user with basic Python skills to adapt it to different
-datasets or new questions.
+plus some additional ones not reported in the paper. [Code](code.html)
+contains the code written for the paper, as well as instructions to run it on
+your own. [Visualizations](vis.html) contains the figures in the paper, as
+well as some that were not included in the paper but are of interest, and code
+to produce all of them.
 
 # Paper
 
@@ -32,12 +23,12 @@ This **website** is hosted in an open repository that contains both the website
 itself as well as the code and data required to reproduce figures and results
 in the paper. You can access its contents in the following two options:
 
-* Online version ([html](http://darribas.org/belts)).
-* Github repository ([link](https://github.com/darribas/belts)).
+* Online version ([html](http://darribas.org/diversity_abm)).
+* Github repository ([link](https://github.com/darribas/diversity_abm)).
 
 **Code and data** can be downloaded separately from he Github repository. Either
 via the standard `git` workflow (`clone` or `fork`) or as a compressed file
-([link](https://github.com/darribas/belts/archive/code_data.zip)).
+([link](https://github.com/darribas/diversity_abm/archive/master.zip)).
 
 # License
 
