@@ -1,0 +1,37 @@
+---
+layout: default
+title: Results and code
+---
+ 
+
+<h1> Visualizations </h1>
+
+<p> This page presents several additional figures that were not included in the 
+paper but that were used in the analysis and may be of interest for readers. In 
+addition, this page also shows the code required to create them. The page has the
+following sections:</p>
+
+<ul>
+<li> Simulation output processing</li>
+<li> Simulation descriptives</li>
+<li> Main results</li>
+<li> Response surface analysis</li>
+</ul>
+
+{% capture vis %}{% include vis.html %}{% endcapture %}
+{{ vis }}
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6032674-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
