@@ -8,6 +8,28 @@ your own. [Visualizations](vis.html) contains the figures in the paper, as
 well as some that were not included in the paper but are of interest, and code
 to produce all of them.
 
+# Paper
+
+Working paper version:
+
+* [CReAM Discussion Paper Series, CPD 22/14](http://cream-migration.org/publ_uploads/CDP_22_14.pdf)
+* [IZA DP No. 8251](http://ftp.iza.org/dp8251.pdf)
+* [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2462417)
+
+Citation:
+
+```
+@article{dab_pn_jp_epa_abm,
+    author = "Arribas-Bel, Daniel and Nijkamp, Peter and Poot, Jacques",
+    journal = "{Environment and Planning A}",
+    title = "{"How diverse can spatial measures of cultural segregation be?" Results from Monte Carlo simulations of an agent-based model}",
+    year = "in press",
+    pages = "{}",
+    doi = "",
+    url = "{}"
+}
+```
+
 # Abstract
 
 *Cultural diversity is a complex and multi-faceted concept. Commonly used
@@ -39,28 +61,6 @@ clustering. The sensitivity of segregation measures to underlying conditions
 suggests that meaningful analysis of the impact of segregation requires
 spatial panel data modelling.*
 
-
-# Paper
-
-Citation:
-
-```
-@article{dab_pn_jp_epa_abm,
-    author = "Arribas-Bel, Daniel and Nijkamp, Peter and Poot, Jacques",
-    journal = "{Environment and Planning A}",
-    title = "{"How diverse can spatial measures of cultural segregation be?" Results from Monte Carlo simulations of an agent-based model}",
-    year = "in press",
-    pages = "{}",
-    doi = "",
-    url = "{}"
-}
-```
-
-Working paper version:
-
-* [CReAM Discussion Paper Series, CPD 22/14](http://cream-migration.org/publ_uploads/CDP_22_14.pdf)
-* [IZA DP No. 8251](http://ftp.iza.org/dp8251.pdf)
-* [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2462417)
 
 # Distribution
 
